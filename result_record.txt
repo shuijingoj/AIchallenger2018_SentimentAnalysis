@@ -1,0 +1,7 @@
+maxlen	embedding	ep	filter	max_pooling	F1-score	
+300	128		5	3	5		0.38
+250							0.369
+200							0.356
+300	200						0.387
+300	300						0.409
+300	350						0.427					
